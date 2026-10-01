@@ -1,0 +1,9 @@
+streamlit
+google-genai
+python-dotenv
+pydantic
+pandas
+qrcode
+Pillow
+reportlab
+openpyxl
