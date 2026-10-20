@@ -1,5 +1,5 @@
 
-    for form in all_forms:
+       for form in all_forms:
 
         responses = get_responses_for_form(
             form["id"]
